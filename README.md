@@ -15,7 +15,6 @@ C, Python, Java
 ### Custom Hashmap Implementation in C
 This project demonstrates my proficiency in low-level programming and algorithm design.
 
-**Key Features:**
 - Implemented a hashmap with O(1) average-time complexity for key operations (insertion, deletion, retrieval)
 - Designed a custom hash function to optimize key distribution and minimize collisions
 - Utilized linked lists for efficient collision resolution
@@ -25,7 +24,6 @@ This project demonstrates my proficiency in low-level programming and algorithm 
 ### Shortest Path Finder for Cities
 This project showcases my understanding of graph theory and algorithm implementation in C
 
-**Key Features:**
 - Developed a program to find the shortest path between cities using Dijkstra's algorithm
 - Implemented a graph data structure using adjacency lists
 - Created functions to read city and distance data from files and dynamically build the graph
@@ -34,7 +32,6 @@ This project showcases my understanding of graph theory and algorithm implementa
 ### Personal Finance Assistant (Python)
 This project demonstrates my skills in object-oriented programming and financial data management.
 
-**Key Features:**
 - Implemented CRUD operations for financial transactions
 - Designed a Transaction class to encapsulate financial data
 - Created functions for loading and saving transactions to/from a file
@@ -44,7 +41,6 @@ This project demonstrates my skills in object-oriented programming and financial
 ### Checkers Game Engine (Java)
 This project showcases my proficiency in Java and game logic implementation.
 
-**Key Features:**
 - Developed a robust Checkers game engine using object-oriented principles
 - Designed an abstract class (AbstractCheckersPiece) and interface (CheckersPiece) for flexible piece representation
 - Created specialized classes for different piece types (Man and King)
