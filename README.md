@@ -1,4 +1,4 @@
-# Computer Science Align Student
+# Chuanxing Zheng
 
 #### Programming Languages: C, Python, Java
 
