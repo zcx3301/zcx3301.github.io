@@ -50,7 +50,3 @@ This project showcases my proficiency in Java and game logic implementation.
 - Created specialized classes for different piece types (Man and King)
 - Implemented game rules and move validation logic for regular pieces and kings
 
-**Technical Highlights:**
-- Language: Java
-- Concepts: Inheritance, Polymorphism, Encapsulation
-- Skills: Game State Management, Move Validation, Error Handling
